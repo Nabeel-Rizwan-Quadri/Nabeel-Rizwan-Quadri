@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nabeel-Rizwan-Quadri
-- 👀 I’m interested in web and mobile App development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on React projects
+- 👀 I’m interested in web app development
+- 🌱 I’m currently learning .NET and RUST 
 - 📫 How to reach me: mr.nabeelrizwan@gmail.com
 
 <!---
